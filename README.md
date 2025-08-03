@@ -1,7 +1,7 @@
 # US-Visa
 
 
-#### Installing Tools 
+#### Installing Tools:
 - anaconda
 - vscode
 - git
