@@ -2,6 +2,6 @@
 
 
 #### Installing Tools:
-- anaconda
-- vscode
-- git
+- anaconda : 
+- vscode : 
+- git : 
